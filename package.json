@@ -1,0 +1,24 @@
+{
+  "name": "daily_wood_app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "14.1.3",
+    "postcss": "^8.4.35",
+    "react": "^18",
+    "react-dom": "^18"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.18",
+    "eslint": "^8",
+    "eslint-config-next": "14.1.3",
+    "google-fonts-webpack-plugin": "^0.4.4",
+    "sass": "^1.71.1"
+  }
+}

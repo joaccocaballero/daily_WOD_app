@@ -1,0 +1,14 @@
+.layoutBackground {
+        height: 100vh;
+        position: relative;
+        width: 100vw;
+        padding: 0.75rem;
+        background-image: linear-gradient(60deg, #29323c 10%, #485563 100%);
+        background-repeat: no-repeat;
+        background-size: cover;
+}
+
+.layoutBody{
+    height: 100%;
+    overflow: hidden
+}
