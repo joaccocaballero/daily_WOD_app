@@ -1,5 +1,6 @@
 module.exports = {
-  plugins: [
-    // tus plugins aquí
-  ]
-}
+  plugins: {
+    tailwindcss: {},
+    autoprefixer: {},
+  },
+};

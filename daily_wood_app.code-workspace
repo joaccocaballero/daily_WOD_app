@@ -2,6 +2,9 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"path": "../daily_wood_app_backend"
 		}
 	],
 	"settings": {}
