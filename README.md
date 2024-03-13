@@ -1,4 +1,12 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Daily Workout of the Day (WOD) App
+
+This project is a web application built using Next.js, designed to facilitate the creation and sharing of daily workout routines across a chain of gyms.
+
+## Features
+- Define daily workout routines
+- Share routines across all screens in the gym chain
+
+
 
 ## Getting Started
 
